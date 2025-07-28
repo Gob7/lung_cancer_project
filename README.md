@@ -1,1 +1,3 @@
-# minor project
+# BTech project
+
+Minor project and major project
